@@ -1,4 +1,4 @@
-Moodle Mobile 2.x
+The Locker Room
 =================
 
 This is the primary repository of source code for the official Moodle Mobile app version 2.x.
